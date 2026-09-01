@@ -23,7 +23,8 @@ jobs:
       
       - name: Download IPTV playlist
         run: |
-          curl -o playlist.m3u "http://260084.solanaflix.com/get.php?username=TV-69606297&password=777456031244&type=m3u_plus"
+          curl -f -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36" \
+            -o playlist.m3u "http://260084.solanaflix.com/get.php?username=TV-69606297&password=777456031244&type=m3u_plus"
       
       - name: Commit and push
         run: |

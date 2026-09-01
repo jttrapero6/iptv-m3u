@@ -38,7 +38,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           for name in $(jq -r '.[]' playlists.json); do
-            git add "${name}.m3u"
+            git add -f "${name}.m3u"
           done
           git commit -m "Updated IPTV playlists at $(date)" || echo "No changes"
           git push

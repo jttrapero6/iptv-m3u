@@ -31,23 +31,50 @@
             border-radius: 5px;
             margin: 20px 0;
         }
+        #playlists {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+        #playlists a { margin-top: 0; }
+        #playlists .error { color: #ff6b6b; }
     </style>
 </head>
 <body>
     <h1>📺 Mi Playlist IPTV</h1>
-    
+
     <div class="info">
         <p><strong>Estado:</strong> Actualizado automáticamente cada 6 horas</p>
         <p><strong>Formato:</strong> M3U Plus</p>
     </div>
-    
+
     <p>Haz clic para descargar tu playlist:</p>
-    <a href="playlist.m3u" download="playlist.m3u">⬇️ Descargar Playlist</a>
-    
+    <div id="playlists">Cargando playlists…</div>
+
     <div class="info">
         <h3>¿Cómo usar?</h3>
-        <p>Copia la URL en tu reproductor IPTV favorito:</p>
-        <code>https://TU_USUARIO.github.io/iptv-m3u/playlist.m3u</code>
+        <p>Copia la URL en tu reproductor IPTV favorito, cambiando <code>NOMBRE</code> por el nombre de tu playlist:</p>
+        <code>https://TU_USUARIO.github.io/iptv-m3u/NOMBRE.m3u</code>
     </div>
+
+    <script>
+        fetch('playlists.json')
+            .then(r => r.json())
+            .then(names => {
+                const container = document.getElementById('playlists');
+                container.innerHTML = '';
+                names.forEach(name => {
+                    const a = document.createElement('a');
+                    a.href = `${name}.m3u`;
+                    a.download = `${name}.m3u`;
+                    a.textContent = `⬇️ ${name}`;
+                    container.appendChild(a);
+                });
+            })
+            .catch(() => {
+                document.getElementById('playlists').innerHTML =
+                    '<span class="error">No se pudo cargar la lista de playlists.</span>';
+            });
+    </script>
 </body>
 </html>

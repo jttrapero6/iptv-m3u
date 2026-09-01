@@ -1,0 +1,31 @@
+name: Update IPTV Playlist
+
+# Ejecuta cada 6 horas
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  
+  # También permite ejecutar manualmente desde GitHub
+  workflow_dispatch:
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Download IPTV playlist
+        run: |
+          curl -o playlist.m3u "http://260084.solanaflix.com/get.php?username=TV-69606297&password=777456031244&type=m3u_plus"
+      
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add playlist.m3u
+          git commit -m "Updated IPTV playlist at $(date)" || echo "No changes"
+          git push

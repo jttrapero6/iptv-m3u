@@ -1,6 +1,6 @@
 name: Update IPTV Playlist
 
-# Ejecuta cada 6 horas
+# Ejecuta cada 12 horas
 on:
   schedule:
     - cron: '0 */12 * * *'

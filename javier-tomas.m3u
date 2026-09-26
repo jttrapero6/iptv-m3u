@@ -80,7 +80,7 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/48524.ts
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="|ES| M+ LIGA CAMPEONES 9" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 9
 http://260084.solanaflix.com/live/TV-69606297/777456031244/444582.ts
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-name="|ES| M+ LIGA CAMPEONES 10" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 10
-http://260084.solanaflix.com/live/TV-69606297/777456031244/444592.ts
+http://260084.solanaflix.com/live/TV-69606297/777456031244/444593.ts
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-name="|ES| M+ LIGA CAMPEONES 11" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 11
 http://260084.solanaflix.com/live/TV-69606297/777456031244/444591.ts
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-name="|ES| M+ LIGA CAMPEONES 12" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 12
@@ -1428,7 +1428,7 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/461358.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 21 ES" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",Dazn 21 ES
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461359.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 22 ES" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",Dazn 22 ES
-http://260084.solanaflix.com/live/TV-69606297/777456031244/461360.ts
+http://260084.solanaflix.com/live/TV-69606297/777456031244/461361.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 23 ES" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",Dazn 23 ES
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461357.ts
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 24 ES" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",Dazn 24 ES
@@ -2025,31 +2025,31 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/463372.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463401.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Baloncesto SD (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",DAZN Baloncesto SD (ES)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463399.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Baloncesto FHD (Orange) (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",DAZN Baloncesto FHD (Orange) (ES)
+#EXTINF:-1 tvg-id="M+ Baloncesto" tvg-name="DAZN Baloncesto FHD (Orange) (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",DAZN Baloncesto FHD (Orange) (ES)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463400.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Baloncesto 2 FHD (ES)" tvg-logo="https://pongbang.dongswipe.net:443/images/CO_Hj7290Y3amd5ScAmT17RKkpwlBSE4NCSSn1FVq2X-8UrXI8iKnC7Z8nQskpaAYx-R6OYgQhHxq3qwmv6UOVrwgHGCebTNU4z32B0qmf5HAxuYGdwxwBaJAw-vkgas.png" group-title="ES - DAZN BALONCESTO",DAZN Baloncesto 2 FHD (ES)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463407.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Baloncesto 2 SD (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",DAZN Baloncesto 2 SD (ES)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463405.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Baloncesto 2 FHD (Orange) (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",DAZN Baloncesto 2 FHD (Orange) (ES)
+#EXTINF:-1 tvg-id="M+ Baloncesto 2" tvg-name="DAZN Baloncesto 2 FHD (Orange) (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",DAZN Baloncesto 2 FHD (Orange) (ES)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463406.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Baloncesto 3 FHD (ES)" tvg-logo="https://pongbang.dongswipe.net:443/images/CO_Hj7290Y3amd5ScAmT17RKkpwlBSE4NCSSn1FVq2X-8UrXI8iKnC7Z8nQskpaAYx-R6OYgQhHxq3qwmv6UOVrwgHGCebTNU4z32B0qmf5HAxuYGdwxwBaJAw-vkgas.png" group-title="ES - DAZN BALONCESTO",DAZN Baloncesto 3 FHD (ES)
+#EXTINF:-1 tvg-id="M+ Baloncesto 3" tvg-name="DAZN Baloncesto 3 FHD (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",DAZN Baloncesto 3 FHD (ES)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463404.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Baloncesto 3 SD (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",DAZN Baloncesto 3 SD (ES)
+#EXTINF:-1 tvg-id="DAZN Baloncesto 3" tvg-name="DAZN Baloncesto 3 SD (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",DAZN Baloncesto 3 SD (ES)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463402.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Baloncesto 3 FHD (Orange) (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",DAZN Baloncesto 3 FHD (Orange) (ES)
+#EXTINF:-1 tvg-id="M+ Baloncesto 3" tvg-name="DAZN Baloncesto 3 FHD (Orange) (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",DAZN Baloncesto 3 FHD (Orange) (ES)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463403.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Baloncesto FHD (ES)" tvg-logo="" group-title="ES - DAZN BALONCESTO",M+ Baloncesto FHD (ES)
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="M+ Baloncesto FHD (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",M+ Baloncesto FHD (ES)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463394.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Baloncesto SD (ES)" tvg-logo="" group-title="ES - DAZN BALONCESTO",M+ Baloncesto SD (ES)
+#EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="M+ Baloncesto SD (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",M+ Baloncesto SD (ES)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463393.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Baloncesto 2 FHD (ES)" tvg-logo="" group-title="ES - DAZN BALONCESTO",M+ Baloncesto 2 FHD (ES)
+#EXTINF:-1 tvg-id="M+ Baloncesto 2" tvg-name="M+ Baloncesto 2 FHD (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",M+ Baloncesto 2 FHD (ES)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463398.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Baloncesto 2 SD (ES)" tvg-logo="" group-title="ES - DAZN BALONCESTO",M+ Baloncesto 2 SD (ES)
+#EXTINF:-1 tvg-id="M+ Baloncesto 2" tvg-name="M+ Baloncesto 2 SD (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",M+ Baloncesto 2 SD (ES)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463397.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Baloncesto 3 FHD (ES)" tvg-logo="" group-title="ES - DAZN BALONCESTO",M+ Baloncesto 3 FHD (ES)
+#EXTINF:-1 tvg-id="M+ Baloncesto 3" tvg-name="M+ Baloncesto 3 FHD (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",M+ Baloncesto 3 FHD (ES)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463396.ts
-#EXTINF:-1 tvg-id="" tvg-name="M+ Baloncesto 3 SD (ES)" tvg-logo="" group-title="ES - DAZN BALONCESTO",M+ Baloncesto 3 SD (ES)
+#EXTINF:-1 tvg-id="M+ Baloncesto 3" tvg-name="M+ Baloncesto 3 SD (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?fit=794%2C442&ssl=1" group-title="ES - DAZN BALONCESTO",M+ Baloncesto 3 SD (ES)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463395.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 1 HD" tvg-logo="https://pongbang.dongswipe.net:443/images/bc77e04ae15b417f90e4bd58ed6ff1ba.png" group-title="ES - DAZN SERIE A",DAZN SERIE A 1 HD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463425.ts

@@ -475,6 +475,12 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/48556.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/113619.ts
 #EXTINF:-1 tvg-id="VH1CLAS" tvg-name="|ES| VH1 CLASSIC" tvg-logo="http://logo.solanaflix.com/images/logos/e3ced67396ae2583abc36943d80489ba.png" group-title="ES - MUSICA",|ES| VH1 CLASSIC
 http://260084.solanaflix.com/live/TV-69606297/777456031244/48702.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA SEPTIMA FHD" tvg-logo="https://www.reasonwhy.es/media/library/la-septima-logo-rojo.jpg" group-title="ES - TDT",LA SEPTIMA FHD
+http://260084.solanaflix.com/live/TV-69606297/777456031244/464153.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA SEPTIMA HD" tvg-logo="https://www.reasonwhy.es/media/library/la-septima-logo-rojo.jpg" group-title="ES - TDT",LA SEPTIMA HD
+http://260084.solanaflix.com/live/TV-69606297/777456031244/464154.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA SEPTIMA SD" tvg-logo="https://www.reasonwhy.es/media/library/la-septima-logo-rojo.jpg" group-title="ES - TDT",LA SEPTIMA SD
+http://260084.solanaflix.com/live/TV-69606297/777456031244/464155.ts
 #EXTINF:-1 tvg-id="La 1 UHD" tvg-name="|ES| LA 1 UHD (4K)" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="ES - TDT",|ES| LA 1 UHD (4K)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/113615.ts
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="|ES| LA 1 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="ES - TDT",|ES| LA 1 FHD
@@ -1391,21 +1397,21 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/461330.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461331.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 03 - Beijing Royal Fighters vs NBA G League United - 13:30" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 03 - Beijing Royal Fighters vs NBA G League United - 13:30
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461333.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 04" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 04
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 04 - Box, Box | Brasil - 17:00" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 04 - Box, Box | Brasil - 17:00
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461334.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 05" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 05
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 05 - Paddock Abierto | Catar - 17:15" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 05 - Paddock Abierto | Catar - 17:15
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461336.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 06 - RSSB Tigers BBC vs NBA G League United - 09:30" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 06 - RSSB Tigers BBC vs NBA G League United - 09:30
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461337.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 07 - Medicine Hat, AB vs Day 2, Draw 7 - 22:00" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 07 - Medicine Hat, AB vs Day 2, Draw 7 - 22:00
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 07 - Medicine Hat, AB vs Day 3, Draw 10 - 18:00" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 07 - Medicine Hat, AB vs Day 3, Draw 10 - 18:00
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461338.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 08 - CS Sébaco vs. Matagalpa FC - 22:00" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 08 - CS Sébaco vs. Matagalpa FC - 22:00
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 08" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 08
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461340.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 09" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 09
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 09 - Media Fight Night 2026 - 21:00" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 09 - Media Fight Night 2026 - 21:00
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461341.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 10" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 10
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 10 - Medicine Hat, AB vs Day 3, Draw 11 - 22:00" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 10 - Medicine Hat, AB vs Day 3, Draw 11 - 22:00
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461343.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 11" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 11
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 11 - Repesca - 23:25" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 11 - Repesca - 23:25
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461344.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 12" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 12
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461346.ts
@@ -2181,35 +2187,35 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/464135.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464136.ts
 #EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 08" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 08
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464137.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 08 - Utah Jazz at New Orleans Pelicans - 02:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 08 - Utah Jazz at New Orleans Pelicans - 02:00
+#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 08 - Toronto Raptors at Milwaukee Bucks - 02:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 08 - Toronto Raptors at Milwaukee Bucks - 02:00
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464152.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 07 - Indiana Pacers at Memphis Grizzlies - 02:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 07 - Indiana Pacers at Memphis Grizzlies - 02:00
+#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 07 - Oklahoma City Thunder at Memphis Grizzlies - 02:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 07 - Oklahoma City Thunder at Memphis Grizzlies - 02:00
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464145.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 06 - Cleveland Cavaliers at Oklahoma City Thunder - 02:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 06 - Cleveland Cavaliers at Oklahoma City Thunder - 02:00
+#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 06 - Minnesota Timberwolves at New Orleans Pelicans - 02:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 06 - Minnesota Timberwolves at New Orleans Pelicans - 02:00
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464146.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 05 - Milwaukee Bucks at Boston Celtics - 01:30" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 05 - Milwaukee Bucks at Boston Celtics - 01:30
+#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 05 - Philadelphia 76ers at Cleveland Cavaliers - 01:30" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 05 - Philadelphia 76ers at Cleveland Cavaliers - 01:30
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464147.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 04 - Chicago Bulls at New York Knicks - 01:30" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 04 - Chicago Bulls at New York Knicks - 01:30
+#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 04 - Washington Wizards at Atlanta Hawks - 01:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 04 - Washington Wizards at Atlanta Hawks - 01:00
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464148.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 03 - Charlotte Hornets at Brooklyn Nets - 01:30" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 03 - Charlotte Hornets at Brooklyn Nets - 01:30
+#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 03 - Boston Celtics at Charlotte Hornets - 01:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 03 - Boston Celtics at Charlotte Hornets - 01:00
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464149.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 02 - Philadelphia 76ers at Detroit Pistons - 01:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 02 - Philadelphia 76ers at Detroit Pistons - 01:00
+#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 02 - Miami Heat at Golden State Warriors - 04:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 02 - Miami Heat at Golden State Warriors - 04:00
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464150.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 01 - Atlanta Hawks at Washington Wizards - 01:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 01 - Atlanta Hawks at Washington Wizards - 01:00
+#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 01 - Orlando Magic at Phoenix Suns - 03:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 01 - Orlando Magic at Phoenix Suns - 03:00
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464151.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 15 - Orlando Magic at Phoenix Suns - 03:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 15 - Orlando Magic at Phoenix Suns - 03:00
+#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 15" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 15
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464138.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 14 - Miami Heat at LA Clippers - 04:30" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 14 - Miami Heat at LA Clippers - 04:30
+#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 14" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 14
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464139.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 13 - Los Angeles Lakers at Sacramento Kings - 04:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 13 - Los Angeles Lakers at Sacramento Kings - 04:00
+#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 13" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 13
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464140.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 12 - Dallas Mavericks at San Antonio Spurs - 03:30" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 12 - Dallas Mavericks at San Antonio Spurs - 03:30
+#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 12" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 12
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464141.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 11 - Toronto Raptors at Denver Nuggets - 03:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 11 - Toronto Raptors at Denver Nuggets - 03:00
+#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 11 - San Antonio Spurs at Sacramento Kings - 04:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 11 - San Antonio Spurs at Sacramento Kings - 04:00
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464142.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 10 - Portland Trail Blazers at Phoenix Suns - 03:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 10 - Portland Trail Blazers at Phoenix Suns - 03:00
+#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 10 - Portland Trail Blazers at Los Angeles Lakers - 04:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 10 - Portland Trail Blazers at Los Angeles Lakers - 04:00
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464143.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 09 - Minnesota Timberwolves at Houston Rockets - 02:30" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 09 - Minnesota Timberwolves at Houston Rockets - 02:30
+#EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 09 - Utah Jazz at Dallas Mavericks - 02:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 09 - Utah Jazz at Dallas Mavericks - 02:00
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464144.ts
 #EXTINF:-1 tvg-id="" tvg-name="+18 • XRestreamTv Adult 1 ᴜʜᴅ" tvg-logo="" group-title="ADULTS",+18 • XRestreamTv Adult 1 ᴜʜᴅ
 http://260084.solanaflix.com/live/TV-69606297/777456031244/444776.ts

@@ -80,7 +80,7 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/48524.ts
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="|ES| M+ LIGA CAMPEONES 9" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 9
 http://260084.solanaflix.com/live/TV-69606297/777456031244/444582.ts
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-name="|ES| M+ LIGA CAMPEONES 10" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 10
-http://260084.solanaflix.com/live/TV-69606297/777456031244/444592.ts
+http://260084.solanaflix.com/live/TV-69606297/777456031244/444593.ts
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-name="|ES| M+ LIGA CAMPEONES 11" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 11
 http://260084.solanaflix.com/live/TV-69606297/777456031244/444591.ts
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-name="|ES| M+ LIGA CAMPEONES 12" tvg-logo="" group-title="ES - FUTBOL",|ES| M+ LIGA CAMPEONES 12
@@ -487,10 +487,14 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/113615.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/48384.ts
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="|ES| LA 1" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zPxq50XukOlR_zxuWIQNt0Y4p3GE25Rt1AiXhCuLn6MEQ.png" group-title="ES - TDT",|ES| LA 1
 http://260084.solanaflix.com/live/TV-69606297/777456031244/48383.ts
+#EXTINF:-1 tvg-id="La 2" tvg-name="|ES| LA 2 UHD (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Nuevo_Logo_de_La_2_TVE_UHD_en_2026.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="ES - TDT",|ES| LA 2 UHD (4K)
+http://260084.solanaflix.com/live/TV-69606297/777456031244/464513.ts
 #EXTINF:-1 tvg-id="La 2" tvg-name="|ES| LA 2 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMRNbP0FDMJxNqVb4YDA2HryLSKh7yRkmlCnNxIsxOM9A.png" group-title="ES - TDT",|ES| LA 2 FHD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/48386.ts
 #EXTINF:-1 tvg-id="La 2" tvg-name="|ES| LA 2" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zMRNbP0FDMJxNqVb4YDA2HryLSKh7yRkmlCnNxIsxOM9A.png" group-title="ES - TDT",|ES| LA 2
 http://260084.solanaflix.com/live/TV-69606297/777456031244/48385.ts
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="|ES| ANTENA 3 UHD (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Antena_3_2025_%28sin_wordmark%29.svg?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="ES - TDT",|ES| ANTENA 3 UHD (4K)
+http://260084.solanaflix.com/live/TV-69606297/777456031244/464514.ts
 #EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="|ES| ANTENA 3 FHD" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zM-GXO-ob4ITnzDuXwG9gS1YBFlSrR-rBcriPrxCNL5Nw.png" group-title="ES - TDT",|ES| ANTENA 3 FHD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/48388.ts
 #EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="|ES| ANTENA 3" tvg-logo="http://logo.solanaflix.com/images/logos/YlPvM2x9GemEKii9kNJvj8b2g6tJneXMWDhyBqD09zM-GXO-ob4ITnzDuXwG9gS1YBFlSrR-rBcriPrxCNL5Nw.png" group-title="ES - TDT",|ES| ANTENA 3
@@ -499,10 +503,14 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/48387.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/48390.ts
 #EXTINF:-1 tvg-id="Cuatro HD" tvg-name="|ES| CUATRO" tvg-logo="http://logo.solanaflix.com/images/logos/8803ac2e225904c7be8479d14e43878b.png" group-title="ES - TDT",|ES| CUATRO
 http://260084.solanaflix.com/live/TV-69606297/777456031244/48389.ts
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="|ES| TELECINCO UHD (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telecinco_2024_Logo.svg?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=original" group-title="ES - TDT",|ES| TELECINCO UHD (4K)
+http://260084.solanaflix.com/live/TV-69606297/777456031244/464511.ts
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-name="|ES| TELECINCO FHD" tvg-logo="http://logo.solanaflix.com/images/logos/e84bf793645c7a574099fe935f3b6c53.png" group-title="ES - TDT",|ES| TELECINCO FHD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/48392.ts
 #EXTINF:-1 tvg-id="Telecinco HD" tvg-name="|ES| TELECINCO" tvg-logo="http://logo.solanaflix.com/images/logos/07d25eb3c41b277d417b0614e8bda9ad.png" group-title="ES - TDT",|ES| TELECINCO
 http://260084.solanaflix.com/live/TV-69606297/777456031244/48391.ts
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="|ES| LA SEXTA UHD (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/La_Sexta_%28A3M%29.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="ES - TDT",|ES| LA SEXTA UHD (4K)
+http://260084.solanaflix.com/live/TV-69606297/777456031244/464512.ts
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-name="|ES| LA SEXTA FHD" tvg-logo="http://logo.solanaflix.com/images/logos/97068a83d9ad701cff04ada6ede87b43.png" group-title="ES - TDT",|ES| LA SEXTA FHD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/48394.ts
 #EXTINF:-1 tvg-id="La Sexta HD" tvg-name="|ES| LA SEXTA" tvg-logo="http://logo.solanaflix.com/images/logos/97068a83d9ad701cff04ada6ede87b43.png" group-title="ES - TDT",|ES| LA SEXTA
@@ -583,6 +591,8 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/109250.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/110576.ts
 #EXTINF:-1 tvg-id="TVG - TV Galicia" tvg-name="|ES| Galicia TV 2 HD" tvg-logo="https://i.ibb.co/2jtvMq0/TVG-GALICIA-2.png" group-title="ES - TDT",|ES| Galicia TV 2 HD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/110577.ts
+#EXTINF:-1 tvg-id="TVG" tvg-name="|ES| TVG UHD (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Logo_TVG_UHD.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="ES - TDT",|ES| TVG UHD (4K)
+http://260084.solanaflix.com/live/TV-69606297/777456031244/464510.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| TVG Infantil HD" tvg-logo="" group-title="ES - TDT",|ES| TVG Infantil HD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/110578.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ES| TVG Musigal HD" tvg-logo="" group-title="ES - TDT",|ES| TVG Musigal HD
@@ -1397,29 +1407,29 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/461330.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461331.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 03" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 03
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461333.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 04 - Camino a la pole | GP Repsol de Portugal - 09:35" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 04 - Camino a la pole | GP Repsol de Portugal - 09:35
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 04" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 04
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461334.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 05 - CD Mirandés vs Bilbao Athletic - 13:00" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 05 - CD Mirandés vs Bilbao Athletic - 13:00
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 05" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 05
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461336.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 06 - Sábado al sprint | GP Repsol de Portugal - 13:25" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 06 - Sábado al sprint | GP Repsol de Portugal - 13:25
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 06" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 06
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461337.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 07 - CE Sabadell vs Granada CF - 14:00" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 07 - CE Sabadell vs Granada CF - 14:00
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 07" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 07
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461338.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 08 - Rayo Vallecano vs Valencia CF - 16:00" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 08 - Rayo Vallecano vs Valencia CF - 16:00
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 08" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 08
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461340.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 09 - Real Sociedad B vs Cádiz CF - 16:15" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 09 - Real Sociedad B vs Cádiz CF - 16:15
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 09" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 09
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461341.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 10 - Real Zaragoza vs CF Rayo Majadahonda - 16:30" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 10 - Real Zaragoza vs CF Rayo Majadahonda - 16:30
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 10" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 10
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461343.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 11 - Sevilla FC vs Real Betis - 18:00" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 11 - Sevilla FC vs Real Betis - 18:00
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 11" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 11
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461344.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 12 - CD Castellón vs CD Eldense - 18:30" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 12 - CD Castellón vs CD Eldense - 18:30
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 12" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 12
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461346.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 13 - SD Ponferradina vs CD Extremadura - 18:45" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 13 - SD Ponferradina vs CD Extremadura - 18:45
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 13" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 13
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461347.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 14 - CD Tenerife vs RCD Mallorca - 21:00" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 14 - CD Tenerife vs RCD Mallorca - 21:00
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 14" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 14
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461349.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 15 - UE Sant Andreu vs Atlético Madrileño - 21:00" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 15 - UE Sant Andreu vs Atlético Madrileño - 21:00
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 15" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 15
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461350.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 16" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 16
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461352.ts
@@ -1434,7 +1444,7 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/461358.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 21" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 21
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461359.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 22" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 22
-http://260084.solanaflix.com/live/TV-69606297/777456031244/461360.ts
+http://260084.solanaflix.com/live/TV-69606297/777456031244/461361.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 23" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 23
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461357.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos 24" tvg-logo="https://evojumeke.teamcdn.in:443/images/735069f06d0dedc403c4f96435cac193.png" group-title="ES - DAZN EVENTOS",DAZN Eventos 24
@@ -1777,35 +1787,35 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/461619.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461618.ts
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga+ Sports TV 15" tvg-logo="https://tv.selectra.com/sites/tv.selectra.com/files/styles/article_hero/public/images/logos/LaLiga+sportstv-logo.jpg" group-title="ES - LALIGA+",LaLiga+ Sports TV 15
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461617.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN NFL 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 1
+#EXTINF:-1 tvg-id="DAZN1.ca" tvg-name="DAZN NFL 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 1
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461469.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN NFL 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 10
+#EXTINF:-1 tvg-id="DAZN10.ca" tvg-name="DAZN NFL 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 10
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461468.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN NFL 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 11
+#EXTINF:-1 tvg-id="DAZN11.ca" tvg-name="DAZN NFL 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 11
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461467.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN NFL 12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 12
+#EXTINF:-1 tvg-id="DAZN12.ca" tvg-name="DAZN NFL 12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 12
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461466.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN NFL 13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 13
+#EXTINF:-1 tvg-id="DAZN13.ca" tvg-name="DAZN NFL 13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 13
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461465.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN NFL 14" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 14
+#EXTINF:-1 tvg-id="DAZN14.ca" tvg-name="DAZN NFL 14" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 14
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461464.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN NFL 15" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 15
+#EXTINF:-1 tvg-id="DAZN15.ca" tvg-name="DAZN NFL 15" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 15
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461463.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN NFL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 2
+#EXTINF:-1 tvg-id="DAZN2.ca" tvg-name="DAZN NFL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 2
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461462.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN NFL 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 3
+#EXTINF:-1 tvg-id="DAZN3.ca" tvg-name="DAZN NFL 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 3
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461461.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN NFL 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 4
+#EXTINF:-1 tvg-id="DAZN4.ca" tvg-name="DAZN NFL 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 4
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461460.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN NFL 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 5
+#EXTINF:-1 tvg-id="DAZN5.ca" tvg-name="DAZN NFL 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 5
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461459.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN NFL 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 6
+#EXTINF:-1 tvg-id="DAZN6.ca" tvg-name="DAZN NFL 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 6
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461458.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN NFL 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 7
+#EXTINF:-1 tvg-id="DAZN7.ca" tvg-name="DAZN NFL 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 7
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461457.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN NFL 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 8
+#EXTINF:-1 tvg-id="DAZN8.ca" tvg-name="DAZN NFL 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 8
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461456.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN NFL 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 9
+#EXTINF:-1 tvg-id="DAZN9.ca" tvg-name="DAZN NFL 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlQvWIi_hHo2mCtYn7EoIX06tdfVoBjAWlQ&s" group-title="ES - NFL",DAZN NFL 9
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461455.ts
 #EXTINF:-1 tvg-id="" tvg-name="LIGA ACB 1" tvg-logo="https://www.kromex.eu/ClientSite/wolfsport/Imagenes/articulos/KMX04388009.mini.png" group-title="ES - LIGA ACB",LIGA ACB 1
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461910.ts
@@ -1817,23 +1827,23 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/461908.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461907.ts
 #EXTINF:-1 tvg-id="" tvg-name="LIGA ACB 5" tvg-logo="https://www.kromex.eu/ClientSite/wolfsport/Imagenes/articulos/KMX04388009.mini.png" group-title="ES - LIGA ACB",LIGA ACB 5
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461897.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 1 FHD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",DAZN ACB 1 FHD
+#EXTINF:-1 tvg-id="DAZN1.ca" tvg-name="DAZN ACB 1 FHD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",DAZN ACB 1 FHD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461905.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 1 HD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",DAZN ACB 1 HD
+#EXTINF:-1 tvg-id="DAZN1.ca" tvg-name="DAZN ACB 1 HD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",DAZN ACB 1 HD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461904.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 1 SD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",DAZN ACB 1 SD
+#EXTINF:-1 tvg-id="DAZN1.ca" tvg-name="DAZN ACB 1 SD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",DAZN ACB 1 SD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461903.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 2 FHD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",DAZN ACB 2 FHD
+#EXTINF:-1 tvg-id="DAZN2.ca" tvg-name="DAZN ACB 2 FHD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",DAZN ACB 2 FHD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461902.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 2 HD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",DAZN ACB 2 HD
+#EXTINF:-1 tvg-id="DAZN2.ca" tvg-name="DAZN ACB 2 HD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",DAZN ACB 2 HD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461901.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 2 SD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",DAZN ACB 2 SD
+#EXTINF:-1 tvg-id="DAZN2.ca" tvg-name="DAZN ACB 2 SD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",DAZN ACB 2 SD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461900.ts
 #EXTINF:-1 tvg-id="" tvg-name="AZN ACB 3 FHD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",AZN ACB 3 FHD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461906.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 3 HD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",DAZN ACB 3 HD
+#EXTINF:-1 tvg-id="DAZN3.ca" tvg-name="DAZN ACB 3 HD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",DAZN ACB 3 HD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461899.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN ACB 3 SD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",DAZN ACB 3 SD
+#EXTINF:-1 tvg-id="DAZN3.ca" tvg-name="DAZN ACB 3 SD" tvg-logo="https://objetos-xlk.estaticos-marca.com/files/fp/uploads/2025/09/04/68b96e2bf204e.r_d.437-599-0.jpeg" group-title="ES - LIGA ACB",DAZN ACB 3 SD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461898.ts
 #EXTINF:-1 tvg-id="" tvg-name="Liga ACB 1 FHD (en pruebas)" tvg-logo="https://www.pronostics-gagnants.fr/wp-content/uploads/2020/02/liga-acb.jpg" group-title="ES - LIGA ACB",Liga ACB 1 FHD (en pruebas)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461604.ts
@@ -1857,11 +1867,11 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/461596.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461606.ts
 #EXTINF:-1 tvg-id="" tvg-name="Liga ACB 11 FHD (en pruebas)" tvg-logo="https://www.pronostics-gagnants.fr/wp-content/uploads/2020/02/liga-acb.jpg" group-title="ES - LIGA ACB",Liga ACB 11 FHD (en pruebas)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461605.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos ACB 01 - Recoletas Salud San Pablo Burgos vs Unicaja Málaga - 17:45" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="ES - LIGA ACB",DAZN Eventos ACB 01 - Recoletas Salud San Pablo Burgos vs Unicaja Málaga - 17:45
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos ACB 01" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="ES - LIGA ACB",DAZN Eventos ACB 01
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461425.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos ACB 02 - Kids&Us Manresa vs MoraBanc Andorra - 19:15" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="ES - LIGA ACB",DAZN Eventos ACB 02 - Kids&Us Manresa vs MoraBanc Andorra - 19:15
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos ACB 02" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="ES - LIGA ACB",DAZN Eventos ACB 02
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461424.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos ACB 03 - UCAM Murcia vs Casademont Zaragoza - 20:45" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="ES - LIGA ACB",DAZN Eventos ACB 03 - UCAM Murcia vs Casademont Zaragoza - 20:45
+#EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos ACB 03" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="ES - LIGA ACB",DAZN Eventos ACB 03
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461423.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN Eventos ACB 04" tvg-logo="https://evojumeke.teamcdn.in:443/images/Id8SduRuQKyUWgbauul0MRwX8a9tQDrtaS-tpWf8UDwOOBJIaqrXPrkYSygOdUAZF9wYzagKNkThbYS6fDv952oPQHLXcciMPwLizhCzbLAo1bAP9dLXRGHi-F36CPN3.jpg" group-title="ES - LIGA ACB",DAZN Eventos ACB 04
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461422.ts
@@ -1877,7 +1887,7 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/461912.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461913.ts
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass FHD (ES)" tvg-logo="https://evojumeke.teamcdn.in:443/images/da55894123a708f83915da41c7cbacda.png" group-title="ES - UFC",UFC Fight Pass FHD (ES)
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461916.ts
-#EXTINF:-1 tvg-id="" tvg-name="UFC NETWORK FHD" tvg-logo="https://evojumeke.teamcdn.in:443/images/CPOP5WlOBNfmbobywI-JgGOrnQc6asXmrlI1dzBSFkgY-Qe5vnTDvndBQGYpQWwvmin0o-vGC88u0RkSMRpSYxPF7kAmAvaECBQv4B1NFjZbtJU1aJ8-jeCj1Ietz9d4.png" group-title="ES - UFC",UFC NETWORK FHD
+#EXTINF:-1 tvg-id="USANetwork.ca" tvg-name="UFC NETWORK FHD" tvg-logo="https://evojumeke.teamcdn.in:443/images/CPOP5WlOBNfmbobywI-JgGOrnQc6asXmrlI1dzBSFkgY-Qe5vnTDvndBQGYpQWwvmin0o-vGC88u0RkSMRpSYxPF7kAmAvaECBQv4B1NFjZbtJU1aJ8-jeCj1Ietz9d4.png" group-title="ES - UFC",UFC NETWORK FHD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461917.ts
 #EXTINF:-1 tvg-id="" tvg-name="UFC EVENTO 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrtENK_-vOcr40T4ZtbT1ezixokel98LPx65CeQPNfGDBXPx1a-v8BpbE&s=10" group-title="ES - UFC",UFC EVENTO 1
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461918.ts
@@ -1891,15 +1901,15 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/461921.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461922.ts
 #EXTINF:-1 tvg-id="M+ Cero" tvg-name="|ES| M+ CERO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/0_por_Movistar_Plus%2B_2022_logo.svg" group-title="ES - ESTILO DE VIDA",|ES| M+ CERO FHD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/462270.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 1 - OGC Nice vs PSG - 17:00" tvg-logo="https://pongbang.dongswipe.net:443/images/d57ad6b53045c6449fcc9a04f556ab41.png" group-title="ES - DAZN LIGUE 1",DAZN LIGUE 1 1 - OGC Nice vs PSG - 17:00
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 1" tvg-logo="https://pongbang.dongswipe.net:443/images/d57ad6b53045c6449fcc9a04f556ab41.png" group-title="ES - DAZN LIGUE 1",DAZN LIGUE 1 1
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463390.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 4 - RC Lens vs Toulouse FC - 20:30" tvg-logo="https://pongbang.dongswipe.net:443/images/d57ad6b53045c6449fcc9a04f556ab41.png" group-title="ES - DAZN LIGUE 1",DAZN LIGUE 1 4 - RC Lens vs Toulouse FC - 20:30
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 4" tvg-logo="https://pongbang.dongswipe.net:443/images/d57ad6b53045c6449fcc9a04f556ab41.png" group-title="ES - DAZN LIGUE 1",DAZN LIGUE 1 4
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463387.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 3 - RC Strasbourg Alsace vs Stade Brestois 29 - 20:30" tvg-logo="https://pongbang.dongswipe.net:443/images/d57ad6b53045c6449fcc9a04f556ab41.png" group-title="ES - DAZN LIGUE 1",DAZN LIGUE 1 3 - RC Strasbourg Alsace vs Stade Brestois 29 - 20:30
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 3" tvg-logo="https://pongbang.dongswipe.net:443/images/d57ad6b53045c6449fcc9a04f556ab41.png" group-title="ES - DAZN LIGUE 1",DAZN LIGUE 1 3
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463388.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 2 - LOSC Lille vs Olympique Lyonnais - 20:30" tvg-logo="https://pongbang.dongswipe.net:443/images/d57ad6b53045c6449fcc9a04f556ab41.png" group-title="ES - DAZN LIGUE 1",DAZN LIGUE 1 2 - LOSC Lille vs Olympique Lyonnais - 20:30
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 2" tvg-logo="https://pongbang.dongswipe.net:443/images/d57ad6b53045c6449fcc9a04f556ab41.png" group-title="ES - DAZN LIGUE 1",DAZN LIGUE 1 2
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463389.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 2 - LOSC Lille vs Olympique Lyonnais - 20:30" tvg-logo="https://pongbang.dongswipe.net:443/images/d57ad6b53045c6449fcc9a04f556ab41.png" group-title="ES - DAZN LIGUE 1",DAZN LIGUE 1 2 - LOSC Lille vs Olympique Lyonnais - 20:30
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 2" tvg-logo="https://pongbang.dongswipe.net:443/images/d57ad6b53045c6449fcc9a04f556ab41.png" group-title="ES - DAZN LIGUE 1",DAZN LIGUE 1 2
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463386.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 6" tvg-logo="https://pongbang.dongswipe.net:443/images/d57ad6b53045c6449fcc9a04f556ab41.png" group-title="ES - DAZN LIGUE 1",DAZN LIGUE 1 6
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463385.ts
@@ -1919,13 +1929,13 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/463379.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463378.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN PREMIER LEAGUE 7" tvg-logo="https://pongbang.dongswipe.net:443/images/2ee2a10727b5553ba668a6e0a40e05b0.png" group-title="ES - DAZN PREMIER LEAGUE",DAZN PREMIER LEAGUE 7
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463377.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN FUTSAL 1 - Jimbee Cartagena Costa Cálida vs Jaén Paraíso Interior - 20:15" tvg-logo="https://futsal.rfef.es/media/lnfs/img_news/panel/14155.png?size=960x540c" group-title="ES - DAZN FUTSAL",DAZN FUTSAL 1 - Jimbee Cartagena Costa Cálida vs Jaén Paraíso Interior - 20:15
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FUTSAL 1" tvg-logo="https://futsal.rfef.es/media/lnfs/img_news/panel/14155.png?size=960x540c" group-title="ES - DAZN FUTSAL",DAZN FUTSAL 1
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463392.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN FUTSAL 2 - Viña Albali Valdepeñas vs Noia Portus Apostoli - 12:45" tvg-logo="https://futsal.rfef.es/media/lnfs/img_news/panel/14155.png?size=960x540c" group-title="ES - DAZN FUTSAL",DAZN FUTSAL 2 - Viña Albali Valdepeñas vs Noia Portus Apostoli - 12:45
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FUTSAL 2" tvg-logo="https://futsal.rfef.es/media/lnfs/img_news/panel/14155.png?size=960x540c" group-title="ES - DAZN FUTSAL",DAZN FUTSAL 2
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463391.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN FUTSAL 3 - Sur Seeds El Ejido FS vs Catgas Energía - 17:45" tvg-logo="https://futsal.rfef.es/media/lnfs/img_news/panel/14155.png?size=960x540c" group-title="ES - DAZN FUTSAL",DAZN FUTSAL 3 - Sur Seeds El Ejido FS vs Catgas Energía - 17:45
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FUTSAL 3" tvg-logo="https://futsal.rfef.es/media/lnfs/img_news/panel/14155.png?size=960x540c" group-title="ES - DAZN FUTSAL",DAZN FUTSAL 3
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463376.ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN FUTSAL 4 - Wanapix vs Quesos El Hidalgo Manzanares - 19:45" tvg-logo="https://futsal.rfef.es/media/lnfs/img_news/panel/14155.png?size=960x540c" group-title="ES - DAZN FUTSAL",DAZN FUTSAL 4 - Wanapix vs Quesos El Hidalgo Manzanares - 19:45
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FUTSAL 4" tvg-logo="https://futsal.rfef.es/media/lnfs/img_news/panel/14155.png?size=960x540c" group-title="ES - DAZN FUTSAL",DAZN FUTSAL 4
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463375.ts
 #EXTINF:-1 tvg-id="" tvg-name="DAZN FUTSAL 5" tvg-logo="https://futsal.rfef.es/media/lnfs/img_news/panel/14155.png?size=960x540c" group-title="ES - DAZN FUTSAL",DAZN FUTSAL 5
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463374.ts
@@ -2051,7 +2061,7 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/463922.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463921.ts
 #EXTINF:-1 tvg-id="" tvg-name="ZZ | NFL TV 09" tvg-logo="https://pongbang.dongswipe.net:443/images/22aa7f224869da1f7c3a5c677ed62798.png" group-title="ES - NFL",ZZ | NFL TV 09
 http://260084.solanaflix.com/live/TV-69606297/777456031244/463920.ts
-#EXTINF:-1 tvg-id="" tvg-name="NFL NETWORK" tvg-logo="https://bananamuncher.com:443/images/2ywfVvX9NdxdkaNToIh-ZYlKCxILWUIg8o4wzojcWoLFO_mKGO-R_oQXkH3fcfn0aVshJ-goMGIRHnMDdcaNwg.png tvg-country=US" group-title="NFL",NFL NETWORK
+#EXTINF:-1 tvg-id="NFLNetwork.ca" tvg-name="NFL NETWORK" tvg-logo="https://bananamuncher.com:443/images/2ywfVvX9NdxdkaNToIh-ZYlKCxILWUIg8o4wzojcWoLFO_mKGO-R_oQXkH3fcfn0aVshJ-goMGIRHnMDdcaNwg.png tvg-country=US" group-title="NFL",NFL NETWORK
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461733.ts
 #EXTINF:-1 tvg-id="" tvg-name="NFL REDzone" tvg-logo="https://bananamuncher.com:443/images/2ywfVvX9NdxdkaNToIh-ZYlKCxILWUIg8o4wzojcWoKr6ktxe_qoy9p0dlkrR1I4C_ZYK0rk2RK0ZV3PRPBYxw.png tvg-country=US" group-title="NFL",NFL REDzone
 http://260084.solanaflix.com/live/TV-69606297/777456031244/461731.ts
@@ -2141,11 +2151,11 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/464108.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464107.ts
 #EXTINF:-1 tvg-id="" tvg-name="RFEF TV 9" tvg-logo="https://logos-world.net/wp-content/uploads/2021/04/RFEF-Logo-700x394.png" group-title="ES - FEF TV",RFEF TV 9
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464106.ts
-#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 09 - 1ª FEDERACION - Pontevedra CF vs CD Lugo - 18:25" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 09 - 1ª FEDERACION - Pontevedra CF vs CD Lugo - 18:25
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 09" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 09
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464115.ts
-#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 10 - 2ª FEDERACION - CF Intercity Sant Joan D'Alacant vs UD Poblense - 18:40" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 10 - 2ª FEDERACION - CF Intercity Sant Joan D'Alacant vs UD Poblense - 18:40
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 10" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 10
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464116.ts
-#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 11 - 1ª FEDERACION - UE Sant Andreu vs Club Atlético de Madrid B - 20:40" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 11 - 1ª FEDERACION - UE Sant Andreu vs Club Atlético de Madrid B - 20:40
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 11" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 11
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464117.ts
 #EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 12" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 12
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464118.ts
@@ -2155,7 +2165,7 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/464119.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464120.ts
 #EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 15" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 15
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464121.ts
-#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 02 - 2ª FEDERACION - Elche Ilicitano CF vs Club Deportiva Minera - 15:40" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 02 - 2ª FEDERACION - Elche Ilicitano CF vs Club Deportiva Minera - 15:40
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 02" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 02
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464122.ts
 #EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 17" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 17
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464123.ts
@@ -2171,21 +2181,21 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/464127.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464128.ts
 #EXTINF:-1 tvg-id="" tvg-name="1ª FEDERACIÓN | Backup 3" tvg-logo="" group-title="ES - FEF TV",1ª FEDERACIÓN | Backup 3
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464129.ts
-#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 01 - 1ª FEDERACION - CD Mirandés vs Athletic Bilbao - 12:40" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 01 - 1ª FEDERACION - CD Mirandés vs Athletic Bilbao - 12:40
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 01 - 2ª FEDERACION - CF Intercity Sant Joan D'Alacant vs Real Murcia Imperial - 19:35" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 01 - 2ª FEDERACION - CF Intercity Sant Joan D'Alacant vs Real Murcia Imperial - 19:35
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464130.ts
-#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 02 - 2ª FEDERACION - Elche Ilicitano CF vs Club Deportiva Minera - 15:40" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 02 - 2ª FEDERACION - Elche Ilicitano CF vs Club Deportiva Minera - 15:40
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 02" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 02
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464131.ts
-#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 03 - 1ª FEDERACION - Real Zaragoza vs CF Rayo Majadahonda - 16:10" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 03 - 1ª FEDERACION - Real Zaragoza vs CF Rayo Majadahonda - 16:10
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 03" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 03
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464132.ts
-#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 04 - 1ª FEDERACION - Antequera CF vs Juventud Torremolinos CF - 16:10" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 04 - 1ª FEDERACION - Antequera CF vs Juventud Torremolinos CF - 16:10
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 04" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 04
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464133.ts
-#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 05 - 2ª FEDERACION - Club Marino de Luanco vs Coruxo FC - 16:35" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 05 - 2ª FEDERACION - Club Marino de Luanco vs Coruxo FC - 16:35
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 05" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 05
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464134.ts
-#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 06 - 2ª FEDERACION - Real Madrid Club de Fútbol C vs CD Numancia de Soria - 18:10" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 06 - 2ª FEDERACION - Real Madrid Club de Fútbol C vs CD Numancia de Soria - 18:10
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 06" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 06
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464135.ts
-#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 07 - 1ª FEDERACION - Águilas FC vs CE Europa - 18:20" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 07 - 1ª FEDERACION - Águilas FC vs CE Europa - 18:20
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 07" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 07
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464136.ts
-#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 08 - 1ª FEDERACION - SD Ponferradina vs CD Extremadura 1924 - 18:25" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 08 - 1ª FEDERACION - SD Ponferradina vs CD Extremadura 1924 - 18:25
+#EXTINF:-1 tvg-id="" tvg-name="FootballClub | Eventos 08" tvg-logo="" group-title="ES - FEF TV",FootballClub | Eventos 08
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464137.ts
 #EXTINF:-1 tvg-id="" tvg-name="ZZ | NBA TV 08 - Detroit Pistons at New Orleans Pelicans - 02:00" tvg-logo="https://pongbang.dongswipe.net:443/images/IJ31YHurX30JCtwy2xSu3cZeEBZCPLS-oM7l3I8La1Gs3WhriRYR_QZzgT1e9juEDDpnej75drERrrHUCxvI78WabPmN_jokiPxM25rqGFc.png" group-title="ES - NBA",ZZ | NBA TV 08 - Detroit Pistons at New Orleans Pelicans - 02:00
 http://260084.solanaflix.com/live/TV-69606297/777456031244/464152.ts
@@ -2383,7 +2393,7 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/98993.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/98994.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| Legal TV" tvg-logo="" group-title="ADULTS",|ADULT| Legal TV
 http://260084.solanaflix.com/live/TV-69606297/777456031244/98995.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Hustler HD" tvg-logo="" group-title="ADULTS",|ADULT| Hustler HD
+#EXTINF:-1 tvg-id="HUSTLER.cz" tvg-name="|ADULT| Hustler HD" tvg-logo="" group-title="ADULTS",|ADULT| Hustler HD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99003.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| Redlight HD" tvg-logo="" group-title="ADULTS",|ADULT| Redlight HD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99004.ts
@@ -2391,7 +2401,7 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/99004.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99005.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| Dorcel HD" tvg-logo="" group-title="ADULTS",|ADULT| Dorcel HD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99006.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Dorcel XXX HD" tvg-logo="" group-title="ADULTS",|ADULT| Dorcel XXX HD
+#EXTINF:-1 tvg-id="DORCELXXX.cz" tvg-name="|ADULT| Dorcel XXX HD" tvg-logo="" group-title="ADULTS",|ADULT| Dorcel XXX HD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99007.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| Vivid Red HD" tvg-logo="" group-title="ADULTS",|ADULT| Vivid Red HD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99008.ts
@@ -2419,7 +2429,7 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/99018.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99019.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| DUSK!" tvg-logo="" group-title="ADULTS",|ADULT| DUSK!
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99020.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Hustler TV" tvg-logo="" group-title="ADULTS",|ADULT| Hustler TV
+#EXTINF:-1 tvg-id="HUSTLERTV.cz" tvg-name="|ADULT| Hustler TV" tvg-logo="" group-title="ADULTS",|ADULT| Hustler TV
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99021.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| XXL" tvg-logo="" group-title="ADULTS",|ADULT| XXL
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99022.ts
@@ -2429,7 +2439,7 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/99023.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99024.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| Reality Kings TV" tvg-logo="" group-title="ADULTS",|ADULT| Reality Kings TV
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99025.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| BraZZers TV" tvg-logo="" group-title="ADULTS",|ADULT| BraZZers TV
+#EXTINF:-1 tvg-id="BRAZZERSTV.cz" tvg-name="|ADULT| BraZZers TV" tvg-logo="" group-title="ADULTS",|ADULT| BraZZers TV
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99026.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| Brazzers TV Europe" tvg-logo="" group-title="ADULTS",|ADULT| Brazzers TV Europe
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99027.ts
@@ -2461,15 +2471,15 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/99039.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99040.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| Playboy" tvg-logo="" group-title="ADULTS",|ADULT| Playboy
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99041.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Playboy TV" tvg-logo="" group-title="ADULTS",|ADULT| Playboy TV
+#EXTINF:-1 tvg-id="PLAYBOYTV.cz" tvg-name="|ADULT| Playboy TV" tvg-logo="" group-title="ADULTS",|ADULT| Playboy TV
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99042.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| Playboy Europe HD" tvg-logo="" group-title="ADULTS",|ADULT| Playboy Europe HD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99043.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| Playboy Europe" tvg-logo="" group-title="ADULTS",|ADULT| Playboy Europe
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99044.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Blue Hustler HD" tvg-logo="" group-title="ADULTS",|ADULT| Blue Hustler HD
+#EXTINF:-1 tvg-id="BLUEHUSTLER.cz" tvg-name="|ADULT| Blue Hustler HD" tvg-logo="" group-title="ADULTS",|ADULT| Blue Hustler HD
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99045.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Blue Hustler" tvg-logo="" group-title="ADULTS",|ADULT| Blue Hustler
+#EXTINF:-1 tvg-id="BLUEHUSTLER.cz" tvg-name="|ADULT| Blue Hustler" tvg-logo="" group-title="ADULTS",|ADULT| Blue Hustler
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99046.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| Blue Hustler Europe" tvg-logo="" group-title="ADULTS",|ADULT| Blue Hustler Europe
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99047.ts
@@ -2503,7 +2513,7 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/99060.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99061.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| Bang U Europe" tvg-logo="" group-title="ADULTS",|ADULT| Bang U Europe
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99062.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Vivid Touch" tvg-logo="" group-title="ADULTS",|ADULT| Vivid Touch
+#EXTINF:-1 tvg-id="VividTouch.pl" tvg-name="|ADULT| Vivid Touch" tvg-logo="" group-title="ADULTS",|ADULT| Vivid Touch
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99063.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| Penthouse Passion" tvg-logo="" group-title="ADULTS",|ADULT| Penthouse Passion
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99064.ts
@@ -2521,7 +2531,7 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/99069.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99070.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| Red XXX" tvg-logo="" group-title="ADULTS",|ADULT| Red XXX
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99071.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Extreme" tvg-logo="" group-title="ADULTS",|ADULT| Extreme
+#EXTINF:-1 tvg-id="ExtremeChannel.pl" tvg-name="|ADULT| Extreme" tvg-logo="" group-title="ADULTS",|ADULT| Extreme
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99072.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| Lesbian Affair" tvg-logo="" group-title="ADULTS",|ADULT| Lesbian Affair
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99073.ts
@@ -2549,7 +2559,7 @@ http://260084.solanaflix.com/live/TV-69606297/777456031244/99088.ts
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99091.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| X-MO" tvg-logo="" group-title="ADULTS",|ADULT| X-MO
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99092.ts
-#EXTINF:-1 tvg-id="" tvg-name="|ADULT| Private TV" tvg-logo="" group-title="ADULTS",|ADULT| Private TV
+#EXTINF:-1 tvg-id="PRIVATETV.cz" tvg-name="|ADULT| Private TV" tvg-logo="" group-title="ADULTS",|ADULT| Private TV
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99093.ts
 #EXTINF:-1 tvg-id="" tvg-name="|ADULT| Erox" tvg-logo="" group-title="ADULTS",|ADULT| Erox
 http://260084.solanaflix.com/live/TV-69606297/777456031244/99094.ts
